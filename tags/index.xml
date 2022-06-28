@@ -18,23 +18,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
-      <author>sheldon.ziping.chen@gmail.com (Sheldon Chen)</author>
-      <guid>/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fiction</title>
-      <link>/tags/fiction/</link>
-      <pubDate>Sun, 12 Dec 1948 10:18:00 +0000</pubDate>
-      <author>sheldon.ziping.chen@gmail.com (Sheldon Chen)</author>
-      <guid>/tags/fiction/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
