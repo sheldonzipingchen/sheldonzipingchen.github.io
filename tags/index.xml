@@ -6,15 +6,23 @@
     <description>Recent content in Tags on Sheldon Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>sheldon.ziping.chen@gmail.com (Sheldon Chen)</managingEditor>
-    <webMaster>sheldon.ziping.chen@gmail.com (Sheldon Chen)</webMaster>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>@ Copyright Sheldon Talk</copyright>
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Journal</title>
-      <link>/tags/journal/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <author>sheldon.ziping.chen@gmail.com (Sheldon Chen)</author>
-      <guid>/tags/journal/</guid>
+      <title>Primer</title>
+      <link>/tags/primer/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/primer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todo</title>
+      <link>/tags/todo/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/todo/</guid>
       <description></description>
     </item>
     

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sheldon Talk</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Sheldon Talk</description>
+    <title>todo on Sheldon Talk</title>
+    <link>/tags/todo/</link>
+    <description>Recent content in todo on Sheldon Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@ Copyright Sheldon Talk</copyright>
-    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello world</title>
       <link>/posts/hello-world/</link>

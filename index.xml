@@ -6,16 +6,24 @@
     <description>Recent content on Sheldon Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>sheldon.ziping.chen@gmail.com (Sheldon Chen)</managingEditor>
-    <webMaster>sheldon.ziping.chen@gmail.com (Sheldon Chen)</webMaster>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>@ Copyright Sheldon Talk</copyright>
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>/2022/06/28/hello-world/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <author>sheldon.ziping.chen@gmail.com (Sheldon Chen)</author>
-      <guid>/2022/06/28/hello-world/</guid>
-      <description>Hello world!</description>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is some static page where you can write about yourself.</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>We spend our days filling in every available space, cramming in more tasks, responding to messages, checking social media and online sites, watching videos.</description>
     </item>
     
   </channel>
