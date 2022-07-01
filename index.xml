@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sheldon Talk</title>
-    <link>/</link>
+    <link>https://sheldonzipingchen.github.io/</link>
     <description>Recent content on Sheldon Talk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>@ Copyright Sheldon Talk</copyright>
-    <lastBuildDate>Fri, 01 Jul 2022 14:36:58 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 14:36:58 +0800</lastBuildDate><atom:link href="https://sheldonzipingchen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neovim Markdown 配置</title>
-      <link>/posts/markdown-configuration/</link>
+      <link>https://sheldonzipingchen.github.io/posts/markdown-configuration/</link>
       <pubDate>Fri, 01 Jul 2022 14:36:58 +0800</pubDate>
       
-      <guid>/posts/markdown-configuration/</guid>
+      <guid>https://sheldonzipingchen.github.io/posts/markdown-configuration/</guid>
       <description>说明 之前的工作都是使用 VS Code 来完成，在时断时续的学习使用了 Vim 之后，慢慢发现自己的大部分的工作，都可以直接使用Vim 来完成了。于是逐渐开始完善 Vim 的配置。相对于 Macvim 来说，Neovim 会更容易使用一些，也就把自己的主力编辑器迁移到这上来了。
 编辑Markdown 在编辑 Markdown 文件的时候，有代码片段的支持可以很有效的提高我们编辑的效率。 这方面，我们可以用 UltiSnips 结合上 vim-snippets ， 就可以提供很多有用的代码片段。</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://sheldonzipingchen.github.io/about/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://sheldonzipingchen.github.io/about/</guid>
       <description>This is some static page where you can write about yourself.</description>
     </item>
     
